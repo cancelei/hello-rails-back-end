@@ -35,7 +35,7 @@
 
 **Hello Rails Back-end** is an exercise with 2 repos, but features a random generated greeting message.
 
-Here is the link to the Front-End in <a href="">React</a> 
+Here is the link to the Front-End in <a href="https://github.com/cancelei/hello-react-front-end">React</a> 
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -170,7 +170,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/cancelei/hello-rails-react2/issues).
+Feel free to check the [issues page](https://github.com/cancelei/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
